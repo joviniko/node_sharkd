@@ -1,0 +1,15 @@
+{
+  "name": "node_sharkd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sharkd_cli.js",
+  "dependencies": {
+    "promise-socket": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
